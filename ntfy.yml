@@ -1,0 +1,6 @@
+---
+backends:
+  - pushover
+pushover:
+  api_token: xxx
+  user_key: xxx
